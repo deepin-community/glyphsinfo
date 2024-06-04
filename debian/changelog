@@ -1,3 +1,12 @@
+glyphsinfo (1193+git20200915-1) unstable; urgency=medium
+
+  * New upstream version 1193+git20200915
+  * debian/control:
+    - Bump Standards-Version to 4.6.1, no changes are needed
+    - Bump debhelper-compat version to 13
+
+ -- Yao Wei (魏銘廷) <mwei@debian.org>  Sat, 09 Jul 2022 19:05:57 +0800
+
 glyphsinfo (1193-1) unstable; urgency=medium
 
   * New upstream version 1193
